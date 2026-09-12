@@ -70,13 +70,29 @@
 
 ###
 
-<p align="left">Highly accomplished Senior Software Engineer with 5+ years of experience building scalable, high-performance Android applications in fast-paced environments.<br><br>I specialize in architecting clean, maintainable systems and delivering production-ready mobile applications using modern Android technologies.</p>
+<p align="left">Highly accomplished Senior Software Engineer with 6+ years of experience engineering AI-augmented Android applications across healthcare and fintech — from CureMD's AI-powered clinical platform (Avalon EMR) to AppsGenii's fintech/banking app STC Pay.<br><br>I specialize in architecting clean, maintainable systems and systematically embed AI tooling (Claude, Copilot, ChatGPT) into every phase of the dev cycle — architecture, coding, debugging — to ship secure, high-performance, production-ready mobile applications faster than most engineers.</p>
 
 ###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&section=header&reversal=true&text=%F0%9F%92%BC%20Professional%20Experience&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=000000"  />
 </div>
+
+###
+
+<h3 align="left">🏢 Senior Software Engineer<br>AppsGenii Technologies — Lahore, Pakistan<br>📅 May 2022 – Present</h3>
+
+###
+
+<p align="left">-> Built SecureUtility SDK (Kotlin + NDK) for STC Pay, a fintech/banking app, enabling remote-app detection, screenshot/screen-share blocking, anti-debugging, and VPN/proxy detection<br>-> Secured sensitive credentials and tokens using Android Keystore-backed encryption<br>-> Adopted multi-module Clean Architecture for better code isolation, faster builds, and team scalability<br>-> Managed Play Store release pipeline and Firebase Console (Crashlytics, Analytics, Remote Config)<br>-> Built modern UI with Jetpack Compose, Coroutines, and Flow for reactive, maintainable screens<br>-> Used AI tools (Claude, ChatGPT) daily for rapid screen-design prototyping and UI iteration</p>
+
+###
+
+<h3 align="left">🏢 Senior Software Engineer<br>NAXAVIA Solutions — Lahore, Pakistan<br>📅 Jan 2026 – May 2026</h3>
+
+###
+
+<p align="left">-> Developed and maintained modern Android applications using Jetpack Compose with responsive, adaptive UIs<br>-> Architected scalable Android features following MVVM and Clean Architecture principles<br>-> Leveraged Compose State management (StateFlow, collectAsStateWithLifecycle) for reactive, unidirectional UI updates<br>-> Implemented Clean Architecture use cases and repository abstractions to decouple data sources<br>-> Migrated legacy Java modules to modern Kotlin, applying coroutines and null-safety idioms</p>
 
 ###
 
@@ -102,7 +118,7 @@
 
 ###
 
-<h4 align="left">📱 Mobile Development<br>-> Kotlin<br>-> Java<br>-> MVVM / MVP<br>-> Clean Architecture<br>-> SOLID Principles<br>-> Jetpack Compose<br>-> XML Layouts<br>-> ViewModel<br>-> LiveData<br>-> Navigation Component<br>-> WorkManager<br><br>🔄 Asynchronous Programming<br>-> Coroutines<br>-> Kotlin Flow<br>-> StateFlow / SharedFlow<br><br>💾 Data & Storage<br>-> Room Database<br>-> DataStore<br>-> SharedPreferences<br><br>🌐 Networking<br>-> Retrofit<br>-> OkHttp<br>-> REST APIs<br>-> WebSockets<br>-> Socket.IO<br><br>🔧 Dependency Injection<br>-> Hilt<br><br>📊 Analytics & Tools<br>-> Firebase<br>-> MixPanel<br><br>📍 Location & Sensors<br>-> Google Maps API<br>-> Google Fit APIs<br>-> Step Counter Sensors<br><br>🍏 iOS Exposure<br>-> UIKit (Basic Knowledge)</h4>
+<h4 align="left">📱 Mobile Development<br>-> Kotlin<br>-> Java<br>-> MVVM / MVP<br>-> Clean Architecture<br>-> SOLID Principles<br>-> Jetpack Compose<br>-> XML Layouts<br>-> ViewModel<br>-> LiveData<br>-> Navigation Component<br>-> WorkManager<br><br>🔄 Asynchronous Programming<br>-> Coroutines<br>-> Kotlin Flow<br>-> StateFlow / SharedFlow<br><br>💾 Data & Storage<br>-> Room Database<br>-> DataStore<br>-> SharedPreferences<br><br>🌐 Networking<br>-> Retrofit<br>-> OkHttp<br>-> REST APIs<br>-> WebSockets<br>-> Socket.IO<br><br>🔐 Security<br>-> Android Keystore<br>-> NDK (Native Security Modules)<br>-> Anti-Tampering & Anti-Debugging<br><br>🔧 Dependency Injection<br>-> Hilt<br><br>📊 Analytics & Tools<br>-> Firebase<br>-> MixPanel<br><br>📍 Location & Sensors<br>-> Google Maps API<br>-> Google Fit APIs<br>-> Step Counter Sensors<br><br>🍏 iOS Exposure<br>-> UIKit (Basic Knowledge)</h4>
 
 ###
 
