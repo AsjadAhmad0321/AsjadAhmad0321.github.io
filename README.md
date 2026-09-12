@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">📍 Lahore, Pakistan<br>📧 Email: asjadali0321@gmail.com<br>📱 Contact: +92 321 7876353<br>🔗 LinkedIn: https://www.linkedin.com/in/asjad-ahmad-112a521a4/<br>💻 GitHub: https://github.com/AsjadAhmad0321</h4>
+<h4 align="left">📍 Lahore, Pakistan<br>📧 Email: asjadali0321@gmail.com<br>📱 Contact: +92 321 7876353<br>💻 GitHub: https://github.com/AsjadAhmad0321</h4>
 
 ###
 
@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/asjad-ahmad-112a521a4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/share/1BzX5q2NEr/" target="_blank">
+  <a href="https://www.facebook.com/asjadahmad0321" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/asjadali0321?utm_source=qr&igsh=dmJkZmVpamVobnFw" target="_blank">
