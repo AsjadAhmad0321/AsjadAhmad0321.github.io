@@ -26,7 +26,7 @@
   <a href="https://www.instagram.com/asjadali0321?utm_source=qr&igsh=dmJkZmVpamVobnFw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="[+92 321 7876353](https://api.whatsapp.com/send?phone=923217876353)" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=923217876353" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <a href="mailto:asjadali0321@gmail.com" target="_blank">
